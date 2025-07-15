@@ -103,6 +103,3 @@ Below are some screenshots showcasing different stages of the Snake & Ladder gam
 This project was developed as part of the **NED 1st Semester Project**. Special thanks to the contributors for their dedication and teamwork.
 
 ---
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
